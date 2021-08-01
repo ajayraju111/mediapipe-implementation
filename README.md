@@ -1,0 +1,1 @@
+# mediapipe-implementation-with-opencv-and-pretrained-face-detection-models
