@@ -68,12 +68,11 @@ Using a detector, the pipeline first locates the person/pose region-of-interest 
 
 
 
-# Installation and requirements:
- ### python 3.6
- ### mediapipe
- ### (mp_env): pip install mediapipe
- ### opencv 
- ### pip install opencv-python==3.4.2.16
+# Prerequisites:
+ #### python 3.6 and above
+ #### mediapipe
+ #### (mp_env): pip install mediapipe
+ #### pip install opencv-python==3.4.2.16
  ### For Testing on your system, create a Python virtual environment:
    #### conda create -n yourenvname python=x.x anaconda
    
