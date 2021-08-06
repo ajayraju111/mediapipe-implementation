@@ -1,4 +1,21 @@
 # Mediapipe-implementation-with-opencv-and-pretrained-face-detection-models
+
+
+# What is MediaPipe?
+MediaPipe is a framework for building pipelines to perform inference over arbitrary sensory data like images, audio streams and video streams.
+
+With MediaPipe, a perception pipeline can be built as a graph of modular components, including model inference, media processing algorithms and data transformations.
+
+MediaPipe is something that Google internally uses for its products since 2012 and open-sourced it in June 2019 at CVPR.
+
+# Why MediaPipe?
+MediaPipe provides cross-platform support, as an example development flow, this graph can be first developed and tested on desktop followed by deployment and final performance evaluation on mobile devices.
+
+Rapid Prototyping :
+For instance, a heavy NN-based object detector may be swapped out with a light template matching detector, and the rest of the graph can stay unchanged.
+
+
+
 # Face Detection:
 MediaPipe Face Detection is an face detection model that comes with 6 landmarks and multi-face support. It is based on BlazeFace, a lightweight and well-performing face detectortailored for mobile GPU inference. 
 
